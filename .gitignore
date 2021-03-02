@@ -1,0 +1,6 @@
+_site
+*.swp
+.DS_Store
+.parcel-cache
+node_modules/
+build/
